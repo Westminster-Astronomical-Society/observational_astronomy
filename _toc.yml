@@ -6,4 +6,5 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
+- file: astropy_nb
 - file: markdown-notebooks
