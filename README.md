@@ -42,3 +42,7 @@ observational_astronomy
    ```
 
 Make sure that you included the `-n` - this tells GitHub *not* to build your book with Jekyll. Use `-p` to push the changes and `-f` to force.
+
+## View the Book
+
+https://westminster-astronomical-society.github.io/observational_astronomy/
